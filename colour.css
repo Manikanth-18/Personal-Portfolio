@@ -1,0 +1,104 @@
+a{
+    text-decoration: none;
+}
+.port{
+    text-align: center;
+    padding: 0px 450px;
+}
+.nav{
+    display:flex;
+    padding:0px 500px;
+    gap: 20px;
+    text-align: center;
+    font-weight:500;
+    text-decoration: solid;
+}
+.nav a{ 
+    color:black;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: 1s ease-in-out;
+}
+.nav a:hover{
+    font-size: 25px;
+}
+body{
+    background-color: rgb(231, 234, 228);
+}
+h1{
+    color: black;
+    text-align: left;
+    font-size:45px;
+    margin-left: 180px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#name{
+    text-transform: uppercase;
+    text-align: center;
+    font-size:40px;
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(145, 125, 164);
+    padding-left: 300px;
+    padding-right:200px;
+    padding-top: 15px;
+    color: black;
+}
+.about{
+    color:black;
+    text-align: center;
+    background-color:cadetblue;
+    font-size: 40px;
+}
+
+.intro{
+    color: black;
+    text-align: justify;
+    font-size:25px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.projects{
+    font-size:25px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+.project{
+    text-align: center; 
+    font-size: 40px;
+    background-color:rgb(101, 117, 149);
+}
+.projects a{
+    color: black;
+}
+.ach{
+    font-size:25px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+.achieve{
+    text-align: center;
+    font-size: 40px;
+    background-color: cadetblue;
+}
+.contact{
+    text-align: center;
+    font-size: 40px;
+    background-color:rgb(101, 117, 149);
+}
+.links
+{ 
+    display: flex;
+    gap: 650px;
+    padding-left: 20px;
+}
+.links a{
+    text-decoration: none;
+    color: green;
+    font-size: 20px;
+}
